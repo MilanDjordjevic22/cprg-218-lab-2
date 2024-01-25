@@ -54,7 +54,7 @@ Ingredients:
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
+- 1/2 cup grated Parmesan cheese
 - 1 egg
 - 2 cloves garlic, minced
 - Salt and pepper to taste
@@ -67,7 +67,7 @@ Instructions:
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
 6. Reduce heat to low and let simmer for 10-15 minutes.
-7. Serve meatballs and sauce over spaghetti.
+7. Serve meatballs and sauce over spaghetti and sprinkle parmesan cheese over it.
 
 ### Grilled Chicken Sandwich
 
