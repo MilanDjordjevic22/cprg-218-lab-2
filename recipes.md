@@ -90,7 +90,7 @@ Instructions:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
-### Chocolate Chip Cookies
+### Chocolate Chip and M&M Cookies
 
 Ingredients:
 - 2 1/4 cups all-purpose flour
@@ -109,7 +109,7 @@ Instructions:
 3. Cream together butter, white sugar, and brown sugar until smooth.
 4. Beat in eggs one at a time, then stir in vanilla.
 5. Gradually blend in the dry ingredients.
-6. Stir in chocolate chips.
+6. Stir in chocolate chips and M&M's.
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
