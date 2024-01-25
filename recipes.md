@@ -54,7 +54,7 @@ Ingredients:
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
+- 1/2 cup grated Parmesan cheese
 - 1 egg
 - 2 cloves garlic, minced
 - Salt and pepper to taste
@@ -67,7 +67,7 @@ Instructions:
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
 6. Reduce heat to low and let simmer for 10-15 minutes.
-7. Serve meatballs and sauce over spaghetti.
+7. Serve meatballs and sauce over spaghetti and sprinkle parmesan cheese over it.
 
 ### Grilled Chicken Sandwich
 
@@ -80,6 +80,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Mustard
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -87,7 +88,7 @@ Instructions:
 3. Grill chicken for 5-7 minutes per side or until cooked through.
 4. Top each chicken breast with a slice of Swiss cheese and let melt.
 5. Toast hamburger buns on the grill.
-6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+6. Assemble sandwiches with chicken, lettuce, tomato, mayonnaise, and mustard.
 
 ## Desserts
 ### Chocolate Chip and M&M Cookies
