@@ -113,3 +113,16 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Jello
+
+Ingredients: 
+- 1 box of jello
+- 1/2 cup cold water
+- 1/2 cup hot water
+
+Instructions:
+1. Mix jello packet into hot water.
+2. Stir until all combined.
+3. Mix in cold water.
+4. Refrigerate until solid. 
